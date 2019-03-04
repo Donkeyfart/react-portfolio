@@ -46,8 +46,8 @@ class Resume extends Component {
                />
 
                <Education
-                 startYear={2007}
-                 endYear={2009}
+                 startYear={2014}
+                 endYear={2017}
                  schoolName="UC Irvine"
                  schoolDescription="The University of California, Irvine, is a public research university located in Irvine, California. It is one of the 10 campuses in the University of California system. UC Irvine offers 80 undergraduate degrees and 98 graduate and professional degrees.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                   />

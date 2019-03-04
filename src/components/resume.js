@@ -19,10 +19,10 @@ class Resume extends Component {
                  />
             </div>
 
-            <h2 style={{paddingTop: '2em'}}>Paul Hanna</h2>
-            <h4 style={{color: 'grey'}}>Programmer</h4>
+            <h2 style={{paddingTop: '2em'}}>Jonathan Ho</h2>
+            <h4 style={{color: 'grey'}}>Front End Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <p>I specialize in applications written in React, PHP, and Python. Recently I became also a huge fan of one-way data flow and Redux-like architecture and also typed languages, e.g. TypeScript. My current experience and skills in front-end include: lead TypeScript/JavaScript development: bootstrapping or refactoring an existing app architecture, by improving its’ extensibility and reliability; full integration of front-end development using tools like Webpack with features like automatic code reload, code minifications, multiple environments support, good sense of design and UX, by having some small past experience in graphic design knowledge and huge experience in many JS ecosystem, by using many libraries like React, Redux, Redux-Observable, RxJS, Angular, Ionic Framework, Backbone, jQuery, Lodash/Underscore and whatever else was needed. 11single page applications done completely in Angular or React7talks given about front-end development</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>1 Hacker Way Menlo Park, 94025</p>
@@ -39,9 +39,9 @@ class Resume extends Component {
 
 
             <Education
-              startYear={2002}
-              endYear={2006}
-              schoolName="My University"
+              startYear={2010}
+              endYear={2014}
+              schoolName="Norco College"
               schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                />
 
@@ -71,8 +71,8 @@ class Resume extends Component {
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>
               <Skills
-                skill="javascript"
-                progress={100}
+                skill="Vue"
+                progress={70}
                 />
                 <Skills
                   skill="HTML/CSS"

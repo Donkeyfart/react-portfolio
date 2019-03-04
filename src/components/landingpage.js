@@ -15,11 +15,11 @@ class Landing extends Component {
               />
 
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+              <h1>Front End Web Developer</h1>
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+          <p>HTML/CSS | JavaScript | React | Vue | NodeJS | Express | Laravel</p>
 
         <div className="social-links">
 

@@ -8,13 +8,13 @@ class Contact extends Component {
       <div className="contact-body">
         <Grid className="contact-grid">
           <Cell col={6}>
-            <h2>Paul Hanna</h2>
+            <h2>Jonathan Ho</h2>
             <img
               src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
               alt="avatar"
               style={{height: '250px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>I am a self-taught developer who is aspiring to become a professional. I have maintained, developed and launched multiple projects from scratch, carrying the development of its’ back-end and front-end codebases. My current toolset includes React, Node.js, PHP, Laravel, Python, Django and all the other various frameworks, libraries, and technologies related to them.</p>
 
           </Cell>
           <Cell col={6}>
@@ -40,14 +40,14 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
-                    someone@example.com
+                    shabaru21@gmail.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-skype" aria-hidden="true"/>
-                    MySkypeID
+                    <i className="fa fa-instagram" aria-hidden="true"/>
+                    MyInstagram
                   </ListItemContent>
                 </ListItem>
 

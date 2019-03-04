@@ -56,17 +56,17 @@ class Resume extends Component {
               <h2>Experience</h2>
 
             <Experience
-              startYear={2009}
-              endYear={2012}
+              startYear={2017}
+              endYear={2018}
               jobName="Aluminum Wheels MFG Inc. (Regional Sales Expert)"
               jobDescription="Responsible for handling the sales and distribution of semi truck and trailer wheels in the states of Washington/Oregon/California/Arizona/Nevada/ and Utah"
               />
 
               <Experience
-                startYear={2012}
-                endYear={2016}
-                jobName="Second Job"
-                jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                startYear={2018}
+                endYear={2019}
+                jobName="Sorara Outdoor Living (Customer Advocate Specialist)"
+                jobDescription="Responsible for handling the concerns of customers who are looking for warranty and exchages services along with the concerns of big box retailers which our products are distributed through."
                 />
               <hr style={{borderTop: '3px solid #e22947'}} />
               <h2>Skills</h2>

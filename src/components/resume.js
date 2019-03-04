@@ -42,7 +42,7 @@ class Resume extends Component {
               startYear={2010}
               endYear={2014}
               schoolName="Norco College"
-              schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              schoolDescription="Norco College is a public community college in Norco, California. Each year Norco College serves over 13,000 students from the cities of Norco, Corona, and Eastvale, as well as surrounding communities."
                />
 
                <Education
